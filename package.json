@@ -1,0 +1,27 @@
+{
+  "name": "mino-design",
+  "version": "1.0.0",
+  "description": "React UI lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilesMai/Mino-design.git"
+  },
+  "author": "Miles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilesMai/Mino-design/issues"
+  },
+  "homepage": "https://github.com/MilesMai/Mino-design#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
